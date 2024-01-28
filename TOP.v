@@ -1,7 +1,6 @@
 module TOP
 (
 	input			Reset_Button,
-    input           User_Button,
     input           XTAL_IN,
 
 	output			LCD_CLK,
